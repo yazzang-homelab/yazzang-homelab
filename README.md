@@ -9,4 +9,4 @@
 
 설계·검증·승인은 제가 하고 구현은 AI 코딩 에이전트가 합니다.
 
-포트폴리오 https://yazzang-homelab.github.io · LinkedIn https://www.linkedin.com/in/sayah-lee-382178290/ · heiakak@gmail.com
+LinkedIn https://www.linkedin.com/in/sayah-lee-382178290/ · heiakak@gmail.com
